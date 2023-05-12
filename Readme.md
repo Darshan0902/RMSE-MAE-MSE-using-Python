@@ -1,4 +1,4 @@
-# RMSE (Root mean squared error) , Mean Absolute Error (MAE) , 
+# RMSE (Root mean squared error) , Mean Absolute Error (MAE) ,  Mean Squared Error (MSE) : 
 
 
 
