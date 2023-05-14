@@ -19,7 +19,7 @@ Note: RMSE is NOT scale invariant and hence comparison of models using this meas
  ![image](https://github.com/Darshan0902/RMSE-MAE-MSE-using-Python/assets/77969007/27ff571c-10d0-4bde-8f37-7bfb1a783091)
 
 
-# <h2> Mean Absolute Error (MAE) </h2> : 
+# <h2> (2.)  Mean Absolute Error (MAE) </h2> : 
 
 ```
 
