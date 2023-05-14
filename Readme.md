@@ -28,7 +28,7 @@ In the context of machine learning, absolute error refers to the magnitude of di
 
 ```
 
-<h2> Mean Squared Error (MSE) </h2> : 
+<h2> (3.) Mean Squared Error (MSE) </h2> : 
  
  
  ```
